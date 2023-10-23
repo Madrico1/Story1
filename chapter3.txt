@@ -1,1 +1,2 @@
 test git version control for chapter 3
+knowing how to use branching and git main 
