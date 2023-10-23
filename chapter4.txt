@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 getting along with git branch
+=======
+complete chapter 4
+>>>>>>> debugg
